@@ -2,5 +2,6 @@ numpy
 scipy
 pandas
 seaborn
+matplotlib
 
--e .
+#-e .
